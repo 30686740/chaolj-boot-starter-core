@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.chaolj.core.bootUtils.bootConfig.AppContextAware,\
+com.chaolj.core.bootUtils.bootConfig.AppInterceptor,\
+com.chaolj.core.bootUtils.bootConfig.AppRequestFilter,\
+com.chaolj.core.commonUtils.myHelper.MyHelperConfig,\
+com.chaolj.core.commonUtils.myServer.MyServerConfig
